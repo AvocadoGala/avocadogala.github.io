@@ -1,1 +1,1 @@
-# AvocadoGala.github.io
+# avocadogala.github.io
